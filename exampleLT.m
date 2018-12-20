@@ -1,4 +1,3 @@
-%Laplace Transform of any exponential function (time domain to s domain)
 
 clc
 clear
